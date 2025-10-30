@@ -1,0 +1,23 @@
+{
+  "name": "ocos-interface",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.0.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "ethers": "^6.8.0",
+    "framer-motion": "^10.16.5",
+    "tailwindcss": "^3.3.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.28",
+    "typescript": "^5.2.2"
+  }
+}
